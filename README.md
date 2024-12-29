@@ -3,7 +3,9 @@
 ## Introduction
 The project intends to explore and evaluate the Opendata Buffalo tree inventory dataset. The aim of this project is to obtain insights into the distribution patterns and features of tree species in Buffalo by using geospatial tools and statistical analysis.
 
-The collection includes useful information about each tree, such as its Botanical Name, Common Name, Diameter at Breast Height (DBH), and different eco-benefits like as stormwater benefits, CO2 avoidance and sequestration, energy benefits, air quality benefits, and property advantages. It also includes address, street, side, site, council district, park name, latitude, longitude, site ID, and location information.
+[Link to the raw data](https://data.buffalony.govQuality-of-Life/Tree-Inventory/n4ni-uuec/about_data)
+
+The dataset includes useful information about each tree, such as its Botanical Name, Common Name, Diameter at Breast Height (DBH), and different eco-benefits like as stormwater benefits, CO2 avoidance and sequestration, energy benefits, air quality benefits, and property advantages. It also includes address, street, side, site, council district, park name, latitude, longitude, site ID, and location information.
 
 A major goal is to establish the geographical distribution patterns of several tree species around Buffalo. We can reveal critical insights such as the concentration of various tree species inside specific neighborhoods, parks, or council districts by examining the dataset's geospatial properties. This research can help with urban planning, green infrastructure development, and environmental conservation activities.
 
